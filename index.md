@@ -1,6 +1,24 @@
 - [VimConf 2019](https://vimconf.org/2019/)
 
-## 開催概要
+## Keynote
+
+VimConf is the world's first and only one conference about Vim regularly run by a community.
+This year, we'd like to introduce two keynote speakers.
+
+Author of vim-lsp: prabirshrestha
+prabirshrestha (Prabir Shrestha) - GitHub
+Lead maintainer of Neovim: justinmk
+justinmk (Justin M. Keyes) - GitHub
+
+### vim-lsp
+
+vim-lsp is the plugin for Vim/Neovim to use "Language Server Protocol", which enables many text editors to leverage various kinds of features such as auto complete and code formatting.
+
+### Neovim
+
+Neovim is a fork of Vim focusing on customizability.
+Neovim has some new features like supporting MessagePack.
+There are many frontend apps for Neovim such as Onivim and gonvim.
 
 TODO: VimConf 2019の開催概要へのリンクを追記
 
