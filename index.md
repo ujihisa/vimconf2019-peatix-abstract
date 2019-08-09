@@ -24,10 +24,22 @@ TODO: VimConf 2019の開催概要へのリンクを追記
 
 - [開催概要 - VimConf 2019](ここにURL)
 
+## Speakers
+
+All slides are in English. Talks are given either in English or Japanese.
+We're planning to provide translations both English-to-Japanese and Japanese-to-English.
+
+We're reviewing submitted talks, and soon after we decide which talks to be accepted we'll publish speakers in official website and ticket page (this page).
 
 ## Schedule
 
-TODO
+The schedule of the event is below:
+
+09:30 - 10:00 Venue open
+10:00 - 10:10 Opening
+Time table of the talks is TBD
+17:15 - 17:25 Closing
+17:30 - 19:30 After party
 
 ## Lunch
 
